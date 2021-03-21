@@ -1,0 +1,156 @@
+.container-fluid
+{
+  background-color:#000;
+  padding: 5% 7% 5.5% 7%;
+}
+.navbar
+{
+  background-color: #000;
+}
+
+.headname
+{
+  font-size: 687.5%;
+
+}
+.content
+{
+  width:100%;
+  color:#606060;
+  font-size:26px;
+}
+
+.naren
+{
+height:460px;
+width:460px;
+display:block;
+margin-right: auto;
+margin-left: auto;
+
+}
+.navbar-brand
+{
+font-size:36px;
+position:relative;
+left:90px;
+}
+.collapse.navbar-collapse
+{
+  position:relative;
+  right:90px;
+}
+.naren-logo
+{
+  height:80px;
+  width:80px;
+}
+
+.headname
+{
+  color:#ededed;
+}
+
+.nav-item
+{
+  padding:0 16px;
+}
+.edu-icons
+{
+   width:40%;
+  display:block;
+  margin-right: auto;
+  margin-left: auto;
+}
+.sc
+{
+  text-align: center;
+  font-size:34px;
+
+}
+.sc-head{
+  text-align:center;
+  padding-top:7%;
+  padding-bottom: 7%;
+    font-size:60px;
+}
+.edu
+{
+  padding-bottom: 7%;
+}
+.edu-icons
+{
+  margin-bottom:7%;
+}
+.edu-icons:hover
+{
+  background-color:#e9fadd;
+}
+.car-image
+{
+  width:100%;
+  float:left;
+  margin-right: 40px;
+}
+.edu-whole
+{
+  padding:4% 10% 4% 10%;
+}
+.custom-toggler.navbar-toggler {
+  border-color: rgb(255,102,203);
+ margin-right: 10%;
+}
+.int-img
+{
+width:100%;
+}
+#interest
+{
+  padding-top:6%;
+  background-color:#000;
+  color:#ededed;
+}
+.full-interests
+{
+  padding-left:7%;
+  padding-right:7%;
+  text-align: center;
+}
+.int-all
+{
+  margin:0 auto 0 auto;
+  padding-bottom:7%;
+  padding-top: 6%;
+}
+.int-img
+{
+float:left;
+width:40%;
+margin-right:4%;
+}
+  .name-int
+{
+  text-align: center;
+  padding-bottom:6%;
+  font-size:88px;
+}
+.desc
+{
+  color:#606060;
+    font-size:26px;
+}
+.head-int
+{
+  padding-bottom: 6%;
+}
+
+#footer
+{
+  text-align: center;
+  padding-bottom: 4%;
+  padding-top: 4%;
+}
+.social-icon{
+  margin-bottom:8px;
+  margin-right:16px;
+}
